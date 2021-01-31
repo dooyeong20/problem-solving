@@ -3,14 +3,17 @@ from bs4 import BeautifulSoup
 import os.path
 
 
-no = input('번호 : ')
+no = input('no : ')
+ranks =['bronze', 'silver', 'gold']
+rank = ranks[int(input('silver - 1, Gold - 2 : '))]
+
 webpage = requests.get("https://www.acmicpc.net/problem/" + no)
 soup = BeautifulSoup(webpage.content, "html.parser")
 problem_title = soup.select("#problem_title")[0].get_text().replace(' ', '')
 
 content = 'from sys import stdin'
-path = 'boj/problems/'
-file_name = path + no + '_' + problem_title + '.py'
+path = 'myenv1/boj/problems/' + rank + '/'
+file_name = path + problem_title + '.py'
 file_name.replace(' ', '')
 
 if os.path.isfile(file_name):
