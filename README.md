@@ -1,11 +1,12 @@
 # Problem-Solving
 
 Python을 이용해 PS를 해보자 !  
+
 <br> 
 
 ## 2020.01 ~ 
 
-정리된 문제들 이외에도 푼 문제들이 많지만 저장하기 시작한 시점부터 정리된 문제들과 티어  
+이전에도 푼 문제들이 많지만 2020년 1월 말부터 ```python```을 이용해 풀이한 문제들을 티어와 함께 정리한 레포지토리 입니다.  
 <br>
 
 ### [Gold Problems](myenv1/boj/problems/gold) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/>
