@@ -4,12 +4,12 @@ Python을 이용해 PS를 해보자 !
 
 <br> 
 
-## 2020.01 ~ 
+## :calendar: 2020.01 ~ 
 
 이전에도 푼 문제들이 많지만 2020년 1월 말부터 ```python```을 이용해 풀이한 문제들을 티어와 함께 정리한 레포지토리 입니다.  
 <br>
 
-### [Gold Problems](myenv1/boj/problems/gold) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/>
+### :fire: Gold Problems [<ins>Link</ins>](myenv1/boj/problems/gold) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/>
 
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> 경사로 
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> 여행가자 
@@ -26,7 +26,7 @@ Python을 이용해 PS를 해보자 !
 
 <br>
 
-### [Silver Problems](myenv1/boj/problems/silver) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/>
+### :fire: Silver Problems [<ins>Link</ins>](myenv1/boj/problems/silver) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/>
 
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> 쉬운 계단수
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> 기차가 어둠을 헤치고 은하수를
