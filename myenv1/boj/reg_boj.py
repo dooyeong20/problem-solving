@@ -15,11 +15,12 @@ titles = soup.select('div.sticky-table-cell > span > a.hover_underline')
 for i in range(len(nos)):
     if nos[i].get_text() == str(no):
         title = titles[i].get_text()
+        rank = badges[i]['alt']
         badge = badges[i]['src']
         break
 
-print(no + title + badge)
-content = '<img height="25px" width="25px=" src="' +  badge + '"/>' + title
+print(f'[{rank}] {no} - {title}')
+content = '<img height="25px" width="25px=" src="' +  badge + '"/> ' + title
 
 file_path = 'README.md'
 

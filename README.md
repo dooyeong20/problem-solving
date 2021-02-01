@@ -20,7 +20,8 @@ Python을 이용해 PS를 해보자 !
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> 아기 상어 
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> 미세먼지 안녕! 
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> 집합의 표현 
-> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> 사다리조작 
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> 사다리조작  
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> 크게 만들기
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> 인구이동  
 
 <br>
@@ -28,7 +29,7 @@ Python을 이용해 PS를 해보자 !
 ### [Silver Problems](myenv1/boj/problems/silver) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/>
 
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> 쉬운 계단수
->- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/>기차가 어둠을 헤치고 은하수를
+>- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> 기차가 어둠을 헤치고 은하수를
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> 이친수 
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> 나이트의 이동 
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> 가장 긴 증가 부분 수열의 합 
