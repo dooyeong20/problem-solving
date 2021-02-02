@@ -5,7 +5,9 @@ import os.path
 title = ''
 badge = ''
 no = input('번호 : ')
-webpage = requests.get("https://solved.ac/search?query=" + no)
+url = "https://solved.ac/search?query=" + no
+problem_url = "https://www.acmicpc.net/problem/" + no
+webpage = requests.get(url)
 soup = BeautifulSoup(webpage.content, "html.parser")
 
 nos = soup.select('div.sticky-table-cell > span > .ProblemInline__ProblemStyle-cvf1lm-0 > span')
@@ -20,7 +22,7 @@ for i in range(len(nos)):
         break
 
 print(f'[{rank}] {no} - {title}')
-content = '<img height="25px" width="25px=" src="' +  badge + '"/> ' + title
+content = '<img height="25px" width="25px=" src="' +  badge + '"/> [' + title + '](' + problem_url +')' 
 
 file_path = 'README.md'
 
