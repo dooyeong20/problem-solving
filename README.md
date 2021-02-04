@@ -9,7 +9,6 @@ Python을 이용해 PS를 해보자 !
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=c2hot)](https://solved.ac/c2hot)  
 
 
-
 이전에도 푼 문제들이 많지만 2020년 1월 말부터 ```python```을 이용해 풀이한 문제들을 티어와 함께 정리한 레포지토리 입니다. 
 
 <br>
@@ -30,6 +29,7 @@ Python을 이용해 PS를 해보자 !
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [인구이동](https://www.acmicpc.net/problem/16234)   
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [센서](https://www.acmicpc.net/problem/2212)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [괄호 제거](https://www.acmicpc.net/problem/2800)
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [빗물](https://www.acmicpc.net/problem/14719)
 
 
 <br>
@@ -49,6 +49,3 @@ Python을 이용해 PS를 해보자 !
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [다리놓기](https://www.acmicpc.net/problem/1010)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [회사에 있는 사람](https://www.acmicpc.net/problem/7785) 
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [점프](https://www.acmicpc.net/problem/1890)
-
-
-
