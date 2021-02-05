@@ -30,6 +30,7 @@ Python을 이용해 PS를 해보자 !
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [센서](https://www.acmicpc.net/problem/2212)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [괄호 제거](https://www.acmicpc.net/problem/2800)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [빗물](https://www.acmicpc.net/problem/14719)
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [치즈](https://www.acmicpc.net/problem/2636)
 
 
 <br>
