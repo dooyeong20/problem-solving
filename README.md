@@ -37,6 +37,7 @@ Python을 이용해 PS를 해보자 !
 
 ### :fire: Silver Problems [<ins>Link</ins>](myenv1/boj/problems/silver) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/>
 
+>- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [4와 7](https://www.acmicpc.net/problem/2877)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [쉬운 계단수](https://www.acmicpc.net/problem/10844)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> [이친수](https://www.acmicpc.net/problem/2193)  
@@ -50,3 +51,4 @@ Python을 이용해 PS를 해보자 !
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [다리놓기](https://www.acmicpc.net/problem/1010)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [회사에 있는 사람](https://www.acmicpc.net/problem/7785) 
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [점프](https://www.acmicpc.net/problem/1890)
+
