@@ -13,7 +13,7 @@ Python을 이용해 PS를 해보자 !
 
 <br>
 
-### :fire: Gold Problems [<ins>Link</ins>](myenv1/boj/problems/gold) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/>
+### Gold Problems [<ins>Link</ins>](myenv1/boj/problems/gold) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/>
 
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> [경사로](https://www.acmicpc.net/problem/14890) 
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [여행가자 ](https://www.acmicpc.net/problem/1976)
@@ -35,8 +35,9 @@ Python을 이용해 PS를 해보자 !
 
 <br>
 
-### :fire: Silver Problems [<ins>Link</ins>](myenv1/boj/problems/silver) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/>
+### Silver Problems [<ins>Link</ins>](myenv1/boj/problems/silver) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/>
 
+>- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [4와 7](https://www.acmicpc.net/problem/2877)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [쉬운 계단수](https://www.acmicpc.net/problem/10844)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
