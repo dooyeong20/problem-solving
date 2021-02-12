@@ -41,6 +41,7 @@ Python을 이용해 PS를 해보자 !
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [4와 7](https://www.acmicpc.net/problem/2877)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [쉬운 계단수](https://www.acmicpc.net/problem/10844)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
+>- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> [행복 유치원](https://www.acmicpc.net/problem/13164)
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> [이친수](https://www.acmicpc.net/problem/2193)  
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> [나이트의 이동](https://www.acmicpc.net/problem/7562)  
 >- <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> [가장 긴 증가 부분 수열의 합](https://www.acmicpc.net/problem/11055) 
