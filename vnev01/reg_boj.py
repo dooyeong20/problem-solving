@@ -10,8 +10,10 @@ problem_url = "https://www.acmicpc.net/problem/" + no
 webpage = requests.get(url)
 soup = BeautifulSoup(webpage.content, "html.parser")
 
-nos = soup.select('div.sticky-table-cell > span > .ProblemInline__ProblemStyle-cvf1lm-0 > span')
-badges = soup.select('div.sticky-table-cell > span > .ProblemInline__ProblemStyle-cvf1lm-0 > img')
+nos = soup.select(
+    'div.sticky-table-cell > span > .ProblemInline__ProblemStyle-cvf1lm-0 > span')
+badges = soup.select(
+    'div.sticky-table-cell > span > .ProblemInline__ProblemStyle-cvf1lm-0 > img')
 titles = soup.select('div.sticky-table-cell > span > a.hover_underline')
 
 for i in range(len(nos)):
@@ -22,9 +24,10 @@ for i in range(len(nos)):
         break
 
 print(f'[{rank}] {no} - {title}')
-content = '<img height="25px" width="25px=" src="' +  badge + '"/> [' + title + '](' + problem_url +')' 
+content = '<img height="25px" width="25px=" src="' + \
+    badge + '"/> [' + title + '](' + problem_url + ')'
 
-file_path = '../README.md'
+file_path = 'README.md'
 
 f = open(file_path, "a", encoding='utf8')
 f.write('\n')
