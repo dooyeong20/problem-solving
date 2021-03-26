@@ -21,6 +21,7 @@ Python을 이용해 PS를 해보자 !
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [평범한 배낭](https://www.acmicpc.net/problem/12865)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [드래곤 커브](https://www.acmicpc.net/problem/15685)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [나무재테크](https://www.acmicpc.net/problem/16235)
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [카드 정렬하기](https://www.acmicpc.net/problem/1715)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [아기 상어](https://www.acmicpc.net/problem/16236)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> [집합의 표현](https://www.acmicpc.net/problem/1717)
