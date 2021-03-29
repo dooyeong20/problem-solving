@@ -39,6 +39,7 @@ Python을 이용해 PS를 해보자 !
 ### Silver Problems [<ins>Link</ins>](problems/silver) <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/><img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/>
 
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [트리 순회](https://www.acmicpc.net/problem/1991)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [4와 7](https://www.acmicpc.net/problem/2877)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [쉬운 계단수](https://www.acmicpc.net/problem/10844)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787)
