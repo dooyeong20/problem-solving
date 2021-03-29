@@ -1,24 +1,26 @@
- from sys import stdin
-  import heapq
+from sys import stdin
+import heapq
 
-   def solution(n, cards):
-        if n == 1:
-            return 0
 
-        heapq.heapify(cards)
+def solution(n, cards):
+    if n == 1:
+        return 0
 
-        ans = 0
-        tmp = []
+    heapq.heapify(cards)
 
-        while n > 1:
-            tmp = heapq.heappop(cards) + heapq.heappop(cards)
-            ans += tmp
-            heapq.heappush(cards, tmp)
-            n -= 1
+    ans = 0
+    tmp = []
 
-        return ans
+    while n > 1:
+        tmp = heapq.heappop(cards) + heapq.heappop(cards)
+        ans += tmp
+        heapq.heappush(cards, tmp)
+        n -= 1
 
-    n = int(input())
-    cards = [int(stdin.readline()) for _ in range(n)]
+    return ans
 
-    print(solution(n, cards))
+
+n = int(input())
+cards = [int(stdin.readline()) for _ in range(n)]
+
+print(solution(n, cards))
