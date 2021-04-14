@@ -19,13 +19,9 @@ const solution = (h, w, blocks) => {
 
     row.forEach((el) => {
       if (el) {
-        if (left) {
-          ans += cnt;
-        } else {
-          left = true;
-        }
-
+        left ? (ans += cnt) : (left = true);
         cnt = 0;
+
         return;
       }
 
