@@ -58,6 +58,7 @@ Python을 이용해 PS를 해보자 !
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [다리놓기](https://www.acmicpc.net/problem/1010)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [회사에 있는 사람](https://www.acmicpc.net/problem/7785)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [점프](https://www.acmicpc.net/problem/1890)
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [소수](https://www.acmicpc.net/problem/2581)
 
 ### Programmers
 
