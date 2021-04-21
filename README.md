@@ -8,7 +8,7 @@ Python을 이용해 PS를 해보자 !
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=c2hot)](https://solved.ac/c2hot)
 
-2020년 1월 말부터 `python`을 이용해 풀이한 문제들 중 정리해놓고 싶은 문제들을 티어와 함께 정리한 레포지토리 입니다.
+2020년 1월 말부터 `python`을 이용해 풀이한 문제들 중 정리해놓고 싶은 문제들을 티어와 함께 정리했습니다.
 
 <br>
 
@@ -20,6 +20,7 @@ Python을 이용해 PS를 해보자 !
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [빙산](https://www.acmicpc.net/problem/2573)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [평범한 배낭](https://www.acmicpc.net/problem/12865)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [드래곤 커브](https://www.acmicpc.net/problem/15685)
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [우체국](https://www.acmicpc.net/problem/2285)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [나무재테크](https://www.acmicpc.net/problem/16235)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [카드 정렬하기](https://www.acmicpc.net/problem/1715)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [아기 상어](https://www.acmicpc.net/problem/16236)
