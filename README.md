@@ -8,7 +8,7 @@ Python을 이용해 PS를 해보자 !
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=c2hot)](https://solved.ac/c2hot)
 
-이전에도 푼 문제들이 많지만 2020년 1월 말부터 `python`을 이용해 풀이한 문제들을 티어와 함께 정리한 레포지토리 입니다.
+2020년 1월 말부터 `python`을 이용해 풀이한 문제들 중 정리해놓고 싶은 문제들을 티어와 함께 정리한 레포지토리 입니다.
 
 <br>
 
