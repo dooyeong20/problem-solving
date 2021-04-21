@@ -64,6 +64,6 @@ Python을 이용해 PS를 해보자 !
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [소수](https://www.acmicpc.net/problem/2581)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> [쉽게푸는문제](https://www.acmicpc.net/problem/1292)
 
-### Programmers
+### Programmers [Link](problems/programmers)
 
 > - 2021 KAKAO BLIND RECRUITMENT [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=python3)
