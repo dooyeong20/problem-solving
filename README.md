@@ -68,4 +68,8 @@ Python을 이용해 PS를 해보자 !
 
 ### Programmers [Link](problems/programmers)
 
-> - 2021 KAKAO BLIND RECRUITMENT [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=python3)
+> - [2021 KAKAO BLIND RECRUITMENT.순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=python3)
+
+### LeetCode [Link](problems/leetcode)
+
+> - [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
