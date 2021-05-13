@@ -68,6 +68,7 @@ Python을 이용해 PS를 해보자 !
 
 ### Programmers [Link](problems/programmers)
 
+> - [2019 KAKAO BLIND RECRUITMENT. 오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=python3)
 > - [2021 KAKAO BLIND RECRUITMENT.순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=python3)
 
 ### LeetCode [Link](problems/leetcode)
