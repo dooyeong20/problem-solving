@@ -1,9 +1,6 @@
 class Solution:
     def longestStrChain(self, words: List[str]) -> int:
-        def check(a, b):
-            if len(a) > len(b):
-                a, b = b, a
-
+        def check(b, a):
             if len(b) - len(a) != 1:
                 return False
 
