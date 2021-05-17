@@ -74,3 +74,4 @@ Python을 이용해 PS를 해보자 !
 ### LeetCode [Link](problems/leetcode)
 
 > - [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+> - [May 17. Longest String Chain](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/600/week-3-may-15th-may-21st/3746/)
