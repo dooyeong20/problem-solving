@@ -14,11 +14,6 @@ def check(board, r, c, cur):
     lc = (c // 3) * 3
     lr = (r // 3) * 3
 
-    for i in range(lr, lr + 3):
-        for j in range(lc, lc + 3):
-            if board[i][j] == cur and (i, j) != (r, c):
-                return False
-
     for i in range(9):
         if board[i][c] == cur and i != r:
             return False
@@ -26,6 +21,11 @@ def check(board, r, c, cur):
     for i in range(9):
         if board[r][i] == cur and i != c:
             return False
+
+    for i in range(lr, lr + 3):
+        for j in range(lc, lc + 3):
+            if board[i][j] == cur and (i, j) != (r, c):
+                return False
 
     return True
 
