@@ -23,6 +23,7 @@ Python을 이용해 PS를 해보자 !
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [드래곤 커브](https://www.acmicpc.net/problem/15685)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [우체국](https://www.acmicpc.net/problem/2285)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [나무재테크](https://www.acmicpc.net/problem/16235)
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [스도쿠](https://www.acmicpc.net/problem/2580)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [카드 정렬하기](https://www.acmicpc.net/problem/1715)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [아기 상어](https://www.acmicpc.net/problem/16236)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
