@@ -16,6 +16,7 @@ Python을 이용해 PS를 해보자 !
 
 > - <img height="24px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> [문제집](https://www.acmicpc.net/problem/1766)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> [경사로](https://www.acmicpc.net/problem/14890)
+> - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> [트리의 지름](https://www.acmicpc.net/problem/1167)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> [팰린드롬?](https://www.acmicpc.net/problem/10942)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> [구슬탈출](https://www.acmicpc.net/problem/13459)
 > - <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> [여행가자 ](https://www.acmicpc.net/problem/1976)
