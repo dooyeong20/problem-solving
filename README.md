@@ -79,3 +79,4 @@ Python을 이용해 PS를 해보자 !
 
 > - [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 > - [May 17. Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+> - [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)
